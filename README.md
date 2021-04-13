@@ -1,7 +1,8 @@
-**Note:** I don't provide personal support for custom changes in the code. Only
-for the release.  For people just starting, I recommend
-[Treehouse](http://referrals.trhou.se/grgoiremesnil) for online-learning.
-
+TUGAS 4 SVM
+IDA FATRINI PUTRI
+1184113
+D4 TI 3A
+========================
 Naive Bayes SVM (NB-SVM)
 ========================
 
